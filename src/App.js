@@ -1351,7 +1351,7 @@ function App() {
                         </div>
                       </div>
 
-                      { /*<button
+                      <button
                         className="payment-btn"
                         onClick={() => {
                           setShowPaymentPopup(false);
@@ -1359,9 +1359,9 @@ function App() {
                         }}
                       >
                         Pay Online
-                      </button>*/}
+                      </button>
 
-                      <button
+                     {/* <button
                         className="payment-btn"
                         onClick={() => {
                           setShowPaymentPopup(false);
@@ -1373,7 +1373,7 @@ function App() {
                         }}
                       >
                         Pay Online
-                      </button>
+                      </button>*/}
 
                     </div>
 

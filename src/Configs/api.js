@@ -1,4 +1,4 @@
-export const BASE_URL = "https://qrcode-conestone-production.up.railway.app/"; //std
+export const BASE_URL = "https://qrcode-conestone-production.up.railway.app"; //std
 
 
 // export const BASE_URL = "http://localhost:5000";
